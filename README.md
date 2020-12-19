@@ -1,1 +1,3 @@
 # cpp_beadando
+
+A map_array_util osztály template, ami  a map, mint asszociatív tömb tömbként való kezelésére használható. Létrehozáskor megadjuk, hogy melyik mappel fog dolgozni, equals-szal  összehasonlítjuk a paraméterként kapott C tömb elemeivel: ha az értékek  ugyanazok ugyanabban a sorrendben, akkor igazat ad vissza a kulcsoktól függetlenül. A copy a paraméterként kapott tömb elemeit másolja a map  értékeibe (a tömb és a map elemszámának minimumáig). A swap-pel hasonlóan  az elemek felcserélhetőek a tömb és map között. A permutation permutáció  vizsgálatot végez. Legyen olyan értékadás, ahol a jobb oldali  operandus egy tömb és működjön tetszőleges rendezésű mappel. 
